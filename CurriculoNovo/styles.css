@@ -1,0 +1,38 @@
+.titulo{
+color: rgb(6, 0, 10);
+display: flex;
+justify-content: space-between;
+
+}
+.paginaPrincipal{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column
+}
+
+.tituloPaginaPrincial{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(252, 77, 77);
+}
+
+.linkPaginaPrincipal{
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:none;
+    color: inherit;
+}
+
+.minhaFoto{
+   width: 20%;
+}
+
+.iframe{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column
+}
